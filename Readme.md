@@ -1,4 +1,3 @@
-Spike Chat
 Please run from root where package.json sits:
 npm install 
 npm start
